@@ -9,4 +9,4 @@ Berisi kode-kode dan jobsheet codelab untuk Praktikum Mobile Development
 | 4 | Pemrograman Dasar Dart Bagian 3 | https://github.com/Afqufai/codelab_dart/blob/main/codelab04_dart/README.md |
 | 5 | Aplikasi Pertama dan Widget Dasar Flutter | https://github.com/Afqufai/codelab_dart/blob/main/codelab05_dart/README.md |
 | 6 | Layout dan Navigasi | https://github.com/Afqufai/codelab_dart/blob/main/codelab06_dart/README.md |
-| 7 | Layout dan Navigasi | https://github.com/Afqufai/codelab_dart/blob/main/codelab07_dart/README.md |
+| 7 | Managemen Plugin | https://github.com/Afqufai/codelab_dart/blob/main/codelab07_dart/README.md |

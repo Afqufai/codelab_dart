@@ -75,7 +75,7 @@ Container(
 
 Run aplikasi tersebut dengan tekan F5, maka hasilnya akan seperti berikut.
 
-![Hasil Akhir](image.png)
+![Hasil Akhir](img/image.png)
 
 ## Tugas
 1. Selesaikan Praktikum tersebut, lalu dokumentasikan dan push ke repository Anda berupa screenshot hasil pekerjaan beserta penjelasannya di file README.md!
