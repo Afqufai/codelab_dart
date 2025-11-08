@@ -12,3 +12,4 @@ Berisi kode-kode dan jobsheet codelab untuk Praktikum Mobile Development
 | 7 | Managemen Plugin | https://github.com/Afqufai/codelab_dart/blob/main/codelab07_dart/README.md |
 | 9 | Kamera dan Filter  | https://github.com/Afqufai/codelab_dart/blob/main/codelab09_dart/README.md |
 | 10 | Dasar State Management  | https://github.com/Afqufai/codelab_dart/blob/main/codelab10_dart/README.md |
+| 11 | Pemrograman Asynchronous  | https://github.com/Afqufai/codelab_dart/blob/main/codelab11_dart/README.md |
