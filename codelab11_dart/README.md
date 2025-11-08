@@ -382,4 +382,4 @@ _showColorDialog(BuildContext context) async {
   }
 ```
 
-![Colours](img/Percobaan8Tugas17.gif)
+![Colours](img/Percobaan9Tugas17.gif)
