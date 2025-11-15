@@ -1,6 +1,5 @@
-# Pemrograman Mobile - Codelab #11
-Codelab #11 - Asynchronous Programming
-
+# Pemrograman Mobile - Codelab #12
+Codelab #12 - Lanjutan State Management dengan Streams
 NIM: 2341720083
 
 Nama: Afrizal Qurratul Faizin
@@ -45,7 +44,7 @@ final List<Color> colors = [
     Colors.deepPurple,
     Colors.lightBlue,
     Colors.teal,
-    // THE EIGHT LIMBO KEYS <<== Additional
+    // Additional
     Colors.lightGreen,
     Colors.red,
     Colors.pink,
