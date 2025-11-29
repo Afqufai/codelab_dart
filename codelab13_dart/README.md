@@ -1,5 +1,5 @@
-# Pemrograman Mobile - Codelab #12
-Codelab #12 - Lanjutan State Management dengan Streams
+# Pemrograman Mobile - Codelab #13
+Codelab #13 - Persistensi Data
 
 NIM: 2341720083
 
